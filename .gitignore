@@ -1,0 +1,7 @@
+# Original dataset and old project
+backup_data/
+size_prediction/
+
+# Mac system files
+.DS_Store
+
